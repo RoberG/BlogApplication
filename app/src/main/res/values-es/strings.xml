@@ -6,6 +6,7 @@
     <string name="action_settings">Settings</string>
     <string name="elementos">No hay elementos que mostrar</string>
 
+    <!--
     <string-array name="android_names">
         <item>Magdalena</item>
         <item>Rosquilla</item>
@@ -18,5 +19,6 @@
         <item>KitKat</item>
         <item>Pirulí</item>
     </string-array>
+    -->
 
 </resources>
